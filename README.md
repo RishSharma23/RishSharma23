@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: NASA PACE-OCI sensor data preprocessing<br>( For research project description see resume: [Rish's Resume](https://www.resume.lol/share/ds03mlo) )<br>👯 I’m looking to collaborate on: The confluence of ML and statistical arbitrage methods<br>🤝 I’m looking for help with: Insights into the field of Quantitative Development<br>🌱 I’m currently learning: Bayesian statistics<br>⚡ Fun fact: I used to figure skate!
+🔭 I’m currently working on: NASA PACE-OCI sensor data preprocessing<br>( For research project description see resume: [Rish's Resume](https://www.resume.lol/share/3r03nl5) )<br>👯 I’m looking to collaborate on: The confluence of ML and statistical arbitrage methods<br>🤝 I’m looking for help with: Insights into the field of Quantitative Development<br>🌱 I’m currently learning: Bayesian statistics<br>⚡ Fun fact: I used to figure skate!
 
 
 ## 🌐 Socials:
